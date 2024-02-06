@@ -16,7 +16,7 @@ const Displaytodo = () => {
   return (
     <div>
      <div
-    class="ml-[0px] md:ml-[83px] relative  bg-white ring-1 ring-gray-900/5 sm:rounded-lg ">
+    class="ml-[0px] md:ml-[-20px] relative  bg-white ring-1 ring-gray-900/5 sm:rounded-lg ">
     <div class="mx-auto ">
         <div class="mx-auto mt-8 grid divide-y divide-neutral-200">
             <div class="p-5">

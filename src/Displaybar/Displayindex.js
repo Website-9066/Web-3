@@ -34,8 +34,8 @@ const Displayindex = () => {
   const currentContent = contentArray[currentIndex];
   return (
     <>
-    <div className='mx-auto my-10' >
-<h1 className='mt-10 md:ml-[83px] ml-[20px] font-bold text-[26px] mb-20'>Home</h1>
+    <div className='mx-auto ' >
+    <h1 class="mt-10 md:ml-[83px] ml-[20px] font-bold text-[26px] mb-20">Home</h1>
 
   <div className='absolute mt-[-40px] ' style={{zIndex:'1'}}>
     
@@ -61,7 +61,7 @@ const Displayindex = () => {
 </div>
 
 <div className='block md:flex '>
-<div className='bg-[#fff] md:ml-[83px] ml-[0px] md:h-[215px] h-[309px]  md:w-[655px] w-[329px] rounded-[10px] md:pl-[20px] pl-[11px]  pt-[108px]'>
+<div className='bg-[#fff] md:ml-[-25px] ml-[0px] md:h-[215px] h-[309px]  md:w-[655px] w-[329px] rounded-[10px] md:pl-[20px] pl-[11px]  pt-[108px]'>
 <h1 className='text-[26px] font-medium '>Saathi Gaming</h1>
 <h1 className='text-[18px] font-medium text-[#1877F2] mb-1'>Manage Facebook page | Go to instagram</h1>
 <div className='md:flex'>
@@ -135,7 +135,7 @@ const Displayindex = () => {
 </div>
 
 <div>
-  <div className='md:ml-[84px] ml-[0px] m-auto md:w-[100%] w-[309px] mt-5 '>
+  <div className='md:ml-[-20px] ml-[0px] m-auto md:w-[100%] w-[309px] mt-5 '>
     <h1 className='font-bold text-[26px] '>To do list</h1>
     <h1 className='text-[16px]'>Check unread messages, comments and other things that may require your attention.</h1>
   </div>
