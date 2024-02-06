@@ -39,21 +39,21 @@ const Displayindex = () => {
 
   <div className='absolute mt-[-40px] ' style={{zIndex:'1'}}>
     
-  <div className='bg-[#ffffff] ml-[100px] h-[100px] w-[100px] rounded-[50px] shadow-md shadow-black-500'>
+  <div className='bg-[#ffffff] ml-[40px] h-[100px] w-[100px] rounded-[50px] shadow-md shadow-black-500'>
  
   </div>
   
-  <div className='bg-[#ffffff] ml-[110px] h-[80px] w-[80px] rounded-[50px] mt-[-90px]'>
+  <div className='bg-[#ffffff] ml-[50px] h-[80px] w-[80px] rounded-[50px] mt-[-90px]'>
   <img src={Ellipse} alt="" />
   <img src={facebook5} alt="" className='w-[40px] mt-[-41px] ml-[44px]' />
     </div>
   
 </div>
 <div className='absolute mt-[-40px] '>
-  <div className='bg-[#ffffff] ml-[150px] h-[100px] w-[100px] rounded-[50px] shadow-md shadow-black-500'>
+  <div className='bg-[#ffffff] ml-[90px] h-[100px] w-[100px] rounded-[50px] shadow-md shadow-black-500'>
   
   </div>
-  <div className='bg-[#ffffff] ml-[160px] h-[80px] w-[80px] rounded-[50px] mt-[-90px] '>
+  <div className='bg-[#ffffff] ml-[100px] h-[80px] w-[80px] rounded-[50px] mt-[-90px] '>
     <img src={Ellipse} alt="" />
     <img src={Insta} alt="" className=' w-[40px] mt-[-37px] mx-[53px]'/>
     </div>
