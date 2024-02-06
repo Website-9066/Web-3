@@ -35,7 +35,7 @@ const Displayindex = () => {
   return (
     <>
     <div className='mx-auto ' >
-    <h1 class="mt-10 md:ml-[83px] ml-[20px] font-bold text-[26px] mb-20">Home</h1>
+    <h1 class="mt-10 md:ml-[-20px] ml-[20px] font-bold text-[26px] mb-20">Home</h1>
 
   <div className='absolute mt-[-40px] ' style={{zIndex:'1'}}>
     
